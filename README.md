@@ -16,7 +16,7 @@ source spark-venv/bin/activate
 pip install -r requirements.txt
 
 ```
-#### Start the Spark Containers w/ Sample Iceberg Spark Containers from here (https://github.com/databricks/docker-spark-iceberg)[https://github.com/databricks/docker-spark-iceberg]
+#### Start the Spark Containers w/ Sample Iceberg Spark Containers from here [Databricks Spark Iceberg Repository](https://github.com/databricks/docker-spark-iceberg)
 
 ```
 docker compose up -d
