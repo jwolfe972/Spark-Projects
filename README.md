@@ -12,6 +12,6 @@ python -m venv spark-venv
 ```
 #### Activate the virtual environment and install the libraries
 ```
-spark-venv\Scripts\activate
+source spark-venv/bin/activate
 pip install -r .\requirements.txt
 ```

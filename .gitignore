@@ -1,2 +1,6 @@
 /spark-venv/*
 /.idea/*
+243_26053_29-pycharm-support-libs.zip
+/spark/.ipynb_checkpoints
+/spark/ipython/startup
+/spark/notebooks/.ipynb_checkpoints
