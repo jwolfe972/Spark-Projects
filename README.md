@@ -13,5 +13,11 @@ python -m venv spark-venv
 #### Activate the virtual environment and install the libraries
 ```
 source spark-venv/bin/activate
-pip install -r .\requirements.txt
+pip install -r requirements.txt
+
+```
+#### Start the Spark Containers w/ Sample Iceberg Spark Containers from here (https://github.com/databricks/docker-spark-iceberg)[https://github.com/databricks/docker-spark-iceberg]
+
+```
+docker compose up -d
 ```
