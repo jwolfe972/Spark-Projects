@@ -25,5 +25,15 @@ docker compose up -d
 #### Start the Jupyter Notebook Server with this command
 ```
 jupyter notebook
+```
 
+#### Code to connect to the Spark Cluster
+```python
+
+
+from pyspark.sql import SparkSession
+
+spark = SparkSession.builder.appName("Jupyter").getOrCreate()
+
+spark
 ```
