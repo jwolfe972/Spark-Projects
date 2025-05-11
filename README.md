@@ -21,3 +21,9 @@ pip install -r requirements.txt
 ```
 docker compose up -d
 ```
+
+#### Start the Jupyter Notebook Server with this command
+```
+jupyter notebook
+
+```
