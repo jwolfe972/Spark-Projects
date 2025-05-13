@@ -7,3 +7,6 @@ seaborn
 pyarrow
 pybaseball
 nfl-data-py
+grpcio
+google-api-python-client
+grpcio-status
